@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "main": "index.js",
   "author": "Benjamin Esh",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
 }
